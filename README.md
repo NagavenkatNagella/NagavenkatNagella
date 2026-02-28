@@ -1,48 +1,53 @@
-<!-- ====== PREMIUM ANIMATED HEADER ====== -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Nagella+Nagavenkat;IoT+Systems+Engineer;Renewable+Energy+Innovator;Founder+of+NaPariyojana;GreenFlow+VAWT+Researcher" />
+<h1 align="center" style="color:#0ea5e9;">
+Nagella Nagavenkat
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NagavenkatNagella&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/NagavenkatNagella?label=Followers&style=for-the-badge&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/NagavenkatNagella?affiliations=OWNER&style=for-the-badge&color=0ea5e9" />
+<strong>IoT Systems Engineer • Renewable Energy Innovator • Full Stack Developer</strong>
+</p>
+
+<p align="center">
+  <a href="https://nagellanagavenkat.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://napariyojana.onrender.com/">
+    <img src="https://img.shields.io/badge/NaPariyojana-Project%20Platform-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/NagavenkatNagella">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌊 Professional Summary
+## Executive Summary
 
-We are a research-driven IoT and Renewable Energy innovator focused on building intelligent embedded systems integrated with real-time web technologies.
+We are a systems-focused engineer specializing in intelligent IoT architectures, embedded automation, and sustainable energy innovation.
 
-Founder of **NaPariyojana** — an electronics project platform delivering automation and IoT-based solutions.
+Our work integrates hardware engineering, real-time cloud dashboards, secure backend systems, and modern UI frameworks to deliver scalable, real-world technology solutions.
 
-Inventor of a patented **Vertical Axis Wind Turbine (VAWT)** system under the GreenFlow initiative, focused on sustainable highway energy harvesting.
+Founder of **NaPariyojana**, an electronics innovation platform delivering automation-based project solutions.
 
-We specialize in bridging:
-
-⚡ Embedded Hardware  
-🌐 Cloud-Connected Dashboards  
-📊 Real-Time Monitoring Systems  
-📧 Automated Alerts & Data Logging  
-🎨 Modern UI/UX Engineering  
+Inventor of a patented Vertical Axis Wind Turbine (VAWT) concept under the GreenFlow initiative, designed for sustainable urban energy harvesting.
 
 ---
 
-## 🚀 Core Expertise
+## Core Competencies
 
-• ESP8266 / NodeMCU IoT Architectures  
-• Sensor Integration & Smart Automation  
-• Robotics & Embedded C++ Systems  
-• Full Stack Development (Node.js, MongoDB)  
-• Real-Time Web Dashboards  
-• Secure Client-Server Applications  
-• Research & Technical Innovation  
+• Embedded Systems Architecture (ESP8266 / NodeMCU / Arduino)  
+• Real-Time IoT Monitoring Platforms  
+• Sensor-Based Automation Systems  
+• Full Stack Web Development (Node.js, Express, MongoDB)  
+• Secure Client–Server Applications  
+• Data Logging & Email Alert Automation  
+• Renewable Energy System Design  
+• Robotics & Intelligent Control Systems  
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,express,mongodb,html,css,arduino,git,github&perline=6" />
@@ -50,53 +55,34 @@ We specialize in bridging:
 
 ---
 
-## 📊 Performance Analytics
+## Selected Engineering Projects
+
+• Auto Irrigation System with Laser Security Integration  
+• Line Following & Voice-Controlled Robotics Platform  
+• Sign Language Gesture Recognition System  
+• Air Quality Monitoring & Cloud Logging System  
+• Digital Stethoscope with Web-Based Visualization  
+• Real-Time Sensor Dashboard with Alert Notification System  
+
+---
+
+## Engineering Philosophy
+
+> Build intelligent systems, not isolated projects.  
+> Engineer sustainability, not temporary solutions.  
+> Integrate hardware, software, and user experience seamlessly.
+
+---
+
+## GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagavenkatNagella&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_color=0ea5e9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagavenkatNagella&theme=transparent&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border=0ea5e9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NagavenkatNagella&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_color=0ea5e9" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagavenkatNagella&theme=transparent&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border=0ea5e9" height="170"/>
 </p>
 
 ---
 
-## 🌟 Innovation Domains
-
-🌱 Sustainable Energy Systems (GreenFlow – VAWT)  
-🤖 Intelligent Robotics & Automation  
-📡 Smart IoT Monitoring Platforms  
-🧠 Assistive Technology (Sign Language Recognition)  
-🏥 Biomedical Embedded Systems (Digital Stethoscope)  
-
----
-
-## 🏆 Highlight Projects
-
-🔹 Auto Irrigation with Laser Security  
-🔹 Line Following & Voice-Controlled Robots  
-🔹 Sign Language Gesture Conversion  
-🔹 Air Quality Monitoring Dashboard  
-🔹 Real-Time IoT Sensor Web Interface  
-
----
-
-## 🌍 Vision Statement
-
-> Engineering smart, scalable systems that merge sustainability, automation, and digital intelligence — transforming innovative ideas into impactful real-world technology.
-
----
-
-## 🔗 Connect
-
 <p align="center">
-  <a href="https://github.com/NagavenkatNagella">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ====== ANIMATED CONTRIBUTION SNAKE ====== -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+Engineering Sustainable & Intelligent Systems for Real-World Impact
 </p>
