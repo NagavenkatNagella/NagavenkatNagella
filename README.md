@@ -31,9 +31,7 @@
 <a href="mailto:nagellanagavenkat@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-nagellanagavenkat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/>
 </a>&nbsp;
-<a href="tel:+917670933781">
-  <img src="https://img.shields.io/badge/WhatsApp-+91_7670933781-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e1b4b"/>
-</a>&nbsp;
+
 <img src="https://img.shields.io/badge/📍_Location-Tirupathi%2C_AP-f43f5e?style=for-the-badge&labelColor=1e1b4b"/>
 </p>
 
@@ -494,6 +492,5 @@ class NagellaNagavenkat:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=180&section=footer&text=Engineering%20Sustainable%20%26%20Intelligent%20Systems&fontSize=18&fontColor=a5b4fc&fontAlignY=45&desc=for%20Real-World%20Impact&descColor=818cf8&descSize=14&descAlignY=68&animation=fadeIn" width="100%"/>
 
-**📍 Tirupathi, Andhra Pradesh &nbsp;·&nbsp; ✉️ nagellanagavenkat@gmail.com &nbsp;·&nbsp; 📞 +91 7670933781**
-
+**📍 Tirupathi, Andhra Pradesh &nbsp;·&nbsp; ✉️ nagellanagavenkat@gmail.com 
 </div>
