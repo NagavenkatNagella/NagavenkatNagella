@@ -31,6 +31,9 @@
 <a href="mailto:nagellanagavenkat@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-nagellanagavenkat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/>
 </a>&nbsp;
+<a href="tel:+917670933781">
+  <img src="https://img.shields.io/badge/WhatsApp-+91_7670933781-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e1b4b"/>
+</a>&nbsp;
 <img src="https://img.shields.io/badge/📍_Location-Tirupathi%2C_AP-f43f5e?style=for-the-badge&labelColor=1e1b4b"/>
 </p>
 
@@ -49,41 +52,43 @@
 ---
 
 <br/>
-<div align="center">
 
-💫 About Me
-🚀 IoT Systems Engineer & Full-Stack Innovator
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=header&text=Nagella%20Nagavenkat&fontSize=50&animation=fadeIn" width="100%" />
+<!-- ██████████████████████████ ABOUT ME ██████████████████████████ -->
 
-Java
-/**
- * Nagella Nagavenkat · Engineer & Innovator
- * Building bridges between silicon & real-world impact.
- */
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;About Me
 
-public class NagellaNagavenkat {
+<!-- FIX 1: Replaced broken camo URL with stable GitHub user-images CDN GIF -->
+<img align="right" alt="Coding Animation" width="340"
+  src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 
-    String name      = "Nagella Nagavenkat";
-    String role      = "IoT Systems Engineer & Innovator";
-    String location  = "Tirupathi, Andhra Pradesh 🇮🇳";
-    String education = "B.Tech CSE (AI & ML) @ KARE · CGPA 8.35";
-    String patent    = "Design Patent #474355-001 · Govt. of India ✅";
-    String founded   = "NaPariyojana — Electronics Innovation Platform";
-    String ieee      = "Published @ IEEE ICERCS 2024";
+```python
+#!/usr/bin/env python3
+# ──────────────────────────────────────────────
+#   Nagella Nagavenkat  ·  Engineer & Innovator
+# ──────────────────────────────────────────────
 
-    String[] focus = {
-        "🔧 Real-time IoT Monitoring Systems",
-        "🌱 Sustainable & Renewable Energy",
-        "🤖 Edge AI for Industrial Automation",
-        "🌐 Full Stack Web Development"
-    };
+class NagellaNagavenkat:
 
-    public void status() {
-        System.out.println("Innovating at the intersection of Hardware & AI.");
-    }
-}
-🛠️ Tech Stack & Skills
-</div>
+    name       = "Nagella Nagavenkat"
+    role       = "IoT Systems Engineer & Innovator"
+    location   = "Tirupathi, Andhra Pradesh 🇮🇳"
+    education  = "B.Tech CSE (AI & ML) @ KARE  ·  CGPA 8.35"
+    patent     = "Design Patent #474355-001  ·  Govt. of India ✅"
+    founded    = "NaPariyojana — Electronics Innovation Platform"
+    ieee       = "Published @ IEEE ICERCS 2024"
+
+    focus = [
+        "🔧  Real-time IoT Monitoring Systems",
+        "🌱  Sustainable & Renewable Energy",
+        "🤖  Edge AI for Industrial Automation",
+        "🌐  Full Stack Web Development",
+    ]
+
+    def __repr__(self):
+        return "Building bridges between silicon & real-world impact."
+```
+
+<br clear="right"/>
 
 <br/>
 
@@ -118,6 +123,7 @@ public class NagellaNagavenkat {
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 </pre>
+
 <p>
 <img src="https://img.shields.io/badge/Design_Patent-474355--001-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=14532d"/>
 &nbsp;
