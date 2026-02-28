@@ -50,40 +50,32 @@
 
 <br/>
 
-<!-- ██████████████████████████ ABOUT ME ██████████████████████████ -->
+/**
+ * Nagella Nagavenkat · Engineer & Innovator
+ * Building bridges between silicon & real-world impact.
+ */
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;About Me
+public class NagellaNagavenkat {
 
-<!-- FIX 1: Replaced broken camo URL with stable GitHub user-images CDN GIF -->
-<img align="right" alt="Coding Animation" width="340"
-  src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
+    String name      = "Nagella Nagavenkat";
+    String role      = "IoT Systems Engineer & Innovator";
+    String location  = "Tirupathi, Andhra Pradesh 🇮🇳";
+    String education = "B.Tech CSE (AI & ML) @ KARE · CGPA 8.35";
+    String patent    = "Design Patent #474355-001 · Govt. of India ✅";
+    String founded   = "NaPariyojana — Electronics Innovation Platform";
+    String ieee      = "Published @ IEEE ICERCS 2024";
 
-```python
-#!/usr/bin/env python3
-# ──────────────────────────────────────────────
-#   Nagella Nagavenkat  ·  Engineer & Innovator
-# ──────────────────────────────────────────────
+    String[] focus = {
+        "🔧 Real-time IoT Monitoring Systems",
+        "🌱 Sustainable & Renewable Energy",
+        "🤖 Edge AI for Industrial Automation",
+        "🌐 Full Stack Web Development"
+    };
 
-class NagellaNagavenkat:
-
-    name       = "Nagella Nagavenkat"
-    role       = "IoT Systems Engineer & Innovator"
-    location   = "Tirupathi, Andhra Pradesh 🇮🇳"
-    education  = "B.Tech CSE (AI & ML) @ KARE  ·  CGPA 8.35"
-    patent     = "Design Patent #474355-001  ·  Govt. of India ✅"
-    founded    = "NaPariyojana — Electronics Innovation Platform"
-    ieee       = "Published @ IEEE ICERCS 2024"
-
-    focus = [
-        "🔧  Real-time IoT Monitoring Systems",
-        "🌱  Sustainable & Renewable Energy",
-        "🤖  Edge AI for Industrial Automation",
-        "🌐  Full Stack Web Development",
-    ]
-
-    def __repr__(self):
-        return "Building bridges between silicon & real-world impact."
-```
+    public void status() {
+        System.out.println("Innovating at the intersection of Hardware & AI.");
+    }
+}
 
 <br clear="right"/>
 
