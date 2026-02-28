@@ -31,9 +31,6 @@
 <a href="mailto:nagellanagavenkat@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-nagellanagavenkat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/>
 </a>&nbsp;
-<a href="tel:+917670933781">
-  <img src="https://img.shields.io/badge/WhatsApp-+91_7670933781-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e1b4b"/>
-</a>&nbsp;
 <img src="https://img.shields.io/badge/📍_Location-Tirupathi%2C_AP-f43f5e?style=for-the-badge&labelColor=1e1b4b"/>
 </p>
 
