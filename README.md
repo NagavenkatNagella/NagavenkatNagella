@@ -49,7 +49,13 @@
 ---
 
 <br/>
+<div align="center">
 
+💫 About Me
+🚀 IoT Systems Engineer & Full-Stack Innovator
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=header&text=Nagella%20Nagavenkat&fontSize=50&animation=fadeIn" width="100%" />
+
+Java
 /**
  * Nagella Nagavenkat · Engineer & Innovator
  * Building bridges between silicon & real-world impact.
@@ -76,8 +82,8 @@ public class NagellaNagavenkat {
         System.out.println("Innovating at the intersection of Hardware & AI.");
     }
 }
-
-<br clear="right"/>
+🛠️ Tech Stack & Skills
+</div>
 
 <br/>
 
