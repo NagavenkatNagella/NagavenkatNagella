@@ -102,27 +102,36 @@ class NagellaNagavenkat:
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║                                                                                      ║
-║         🏛️    DESIGN PATENT  ·  THE PATENT OFFICE, GOVT. OF INDIA    🏛️             ║
-║                                                                                      ║
-║         ┌──────────────────────────────────────────────────────────────────┐         ║
-║         │                                                                  │         ║
-║         │   TITLE   :  Wind-Powered Wireless Charging System               │         ║
-║         │              for Electric Vehicles                               │         ║
-║         │                                                                  │         ║
-║         │   Design No.  :  474355-001     Class   :  13-02                 │         ║
-
-║        │   Date Issued :  19 Jan 2026    Status  :  ✅  GRANTED           │        ║
-║         │   Authority   :  The Patent Office, Government of India          │         ║
-║         │                                                                  │         ║
-║         └──────────────────────────────────────────────────────────────────┘         ║
-║                                                                                      ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║                                                                   ║
+║        🏛️ DESIGN PATENT · THE PATENT OFFICE, GOVT. OF INDIA 🏛️       ║
+║                                                                   ║
+║    ┌─────────────────────────────────────────────────────────┐    ║
+║    │                                                         │    ║
+║    │  TITLE     : Wind-Powered Wireless Charging System      │    ║
+║    │              for Electric Vehicles                      │    ║
+║    │                                                         │    ║
+║    │  Design No.: 474355-001         Class : 13-02           │    ║
+║    │                                                         │    ║
+║    │  Date Issued: 19 Jan 2026       Status: ✅ GRANTED       │    ║
+║    │                                                         │    ║
+║    │  Authority : The Patent Office, Government of India     │    ║
+║    │                                                         │    ║
+║    └─────────────────────────────────────────────────────────┘    ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 
 <p>
 <img src="https://img.shields.io/badge/Design_Patent-474355--001-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=14532d"/>
