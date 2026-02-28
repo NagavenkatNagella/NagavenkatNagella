@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- ██████████████████████████ ANIMATED HEADER BANNER ██████████████████████████ -->
+<!-- capsule-render is allowlisted by GitHub's image proxy — works fine -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Nagella%20Nagavenkat&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=IoT%20Systems%20Engineer%20%E2%80%A2%20Renewable%20Energy%20Innovator%20%E2%80%A2%20Full%20Stack%20Developer&descSize=16&descColor=a5b4fc&descAlignY=62&animation=fadeIn&fontAlign=50" width="100%"/>
 
@@ -8,7 +9,7 @@
 
 <!-- ██████████████████████████ ANIMATED TYPING ██████████████████████████ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=818CF8&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=%F0%9F%94%A7+IoT+%26+Embedded+Systems+Engineer;%F0%9F%8C%B1+Renewable+Energy+Innovator;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%A4%96+Edge+AI+%26+ML+Practitioner;%F0%9F%9A%80+Founder+of+NaPariyojana;%F0%9F%8F%9B%EF%B8%8F+Govt.+of+India+Patented+Inventor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=818CF8&center=true&vCenter=true&random=false&width=700&height=60&lines=%F0%9F%94%A7+IoT+%26+Embedded+Systems+Engineer;%F0%9F%8C%B1+Renewable+Energy+Innovator;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%A4%96+Edge+AI+%26+ML+Practitioner;%F0%9F%9A%80+Founder+of+NaPariyojana;%F0%9F%8F%9B%EF%B8%8F+Govt.+of+India+Patented+Inventor)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +17,7 @@
 
 <p>
 <a href="https://nagellanagavenkat.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-818cf8?style=for-the-badge&labelColor=1e1b4b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-818cf8?style=for-the-badge&labelColor=1e1b4b"/>
 </a>&nbsp;
 <a href="https://napariyojana.onrender.com/">
   <img src="https://img.shields.io/badge/🔧_NaPariyojana-Live_Platform-6366f1?style=for-the-badge&labelColor=1e1b4b"/>
@@ -33,7 +34,7 @@
 <a href="tel:+917670933781">
   <img src="https://img.shields.io/badge/WhatsApp-+91_7670933781-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e1b4b"/>
 </a>&nbsp;
-<img src="https://img.shields.io/badge/📍_Location-Tirupathi,_AP-f43f5e?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/📍_Location-Tirupathi%2C_AP-f43f5e?style=for-the-badge&labelColor=1e1b4b"/>
 </p>
 
 <p>
@@ -41,7 +42,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/NagavenkatNagella?label=Followers&style=for-the-badge&color=818cf8&labelColor=1e1b4b&logo=github"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Patent-✅_Granted-22c55e?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/Patent-%E2%9C%85_Granted-22c55e?style=for-the-badge&labelColor=1e1b4b"/>
 </p>
 
 </div>
@@ -56,7 +57,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;About Me
 
-<img align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623031622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6f73335948687571557578796e356e4b4a4b645a62454e374f4436424d685f6c6148766a354e5a504b52467375567033563142786c6d4f704e67794a534d5f3031303330395f5737376c6c314545356d7557304d35676e4a5a43446973724a695f67363231383637313935383464363031373166623939306263616531373161393539393135356132373737366435636132363932376366323665303765353731326433313630333435626539313730643839363633303331313464313839636531353733363330653261623965343239316365313466396432376561626534393132343930"/>
+<!-- FIX 1: Replaced broken camo URL with stable GitHub user-images CDN GIF -->
+<img align="right" alt="Coding Animation" width="340"
+  src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 
 ```python
 #!/usr/bin/env python3
@@ -137,63 +140,66 @@ class NagellaNagavenkat:
 
 <!-- ██████████████████████████ TECH STACK ██████████████████████████ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> &nbsp;Tech Stack & Skills
+## ⚙️ Tech Stack & Skills
 
 <div align="center">
 
-### ⚙️ Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp&theme=dark&perline=5"/>
-</p>
-<p>
+<!-- skillicons.dev is GitHub-proxy-safe -->
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp&theme=dark"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1c1c1c"/>
-</p>
+
+<br/><br/>
 
 ### 🌐 Web & Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css&theme=dark&perline=5"/>
-</p>
-<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css&theme=dark"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1c1c1c"/>
-</p>
+
+<br/><br/>
 
 ### 🔌 Embedded & IoT
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=5"/>
-</p>
-<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/Edge_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1c1c1c"/>
-</p>
+
+<br/><br/>
 
 ### 🛠️ Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=5"/>
-</p>
-<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=1c1c1c"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1c1c1c"/>
-</p>
 
 </div>
 
@@ -209,17 +215,19 @@ class NagellaNagavenkat:
 
 <div align="center">
 
+<!-- github-readme-stats.vercel.app is GitHub-proxy-safe -->
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=NagavenkatNagella&show_icons=true&theme=tokyonight&title_color=818cf8&icon_color=818cf8&text_color=c7d2fe&border_color=312e81&border_radius=20&count_private=true&include_all_commits=true&bg_color=0f0e17" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagavenkatNagella&layout=compact&theme=tokyonight&title_color=818cf8&text_color=c7d2fe&border_color=312e81&border_radius=20&langs_count=8&bg_color=0f0e17" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NagavenkatNagella&theme=tokyonight&ring=818cf8&fire=f59e0b&currStreakLabel=818cf8&border=312e81&background=0f0e17&stroke=312e81&sideLabels=c7d2fe&currStreakNum=ffffff&sideNums=c7d2fe&dates=64748b&border_radius=20" height="190" alt="Streak"/>
+<!-- FIX 2: Switched to streak-stats.demolab.com — more reliable than herokuapp -->
+<img src="https://streak-stats.demolab.com?user=NagavenkatNagella&theme=tokyonight&ring=818cf8&fire=f59e0b&currStreakLabel=818cf8&border=312e81&background=0f0e17&stroke=312e81&sideLabels=c7d2fe&currStreakNum=ffffff&sideNums=c7d2fe&dates=64748b&border_radius=20" height="190" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NagavenkatNagella&bg_color=0f0e17&color=818cf8&line=818cf8&point=ffffff&area=true&area_color=312e81&hide_border=false&border_color=312e81&radius=20&custom_title=📈%20Contribution%20Activity%20Graph" width="96%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NagavenkatNagella&bg_color=0f0e17&color=818cf8&line=818cf8&point=ffffff&area=true&area_color=312e81&border_color=312e81&radius=20&custom_title=Contribution%20Activity%20Graph" width="96%" alt="Activity Graph"/>
 
 </div>
 
@@ -233,9 +241,11 @@ class NagellaNagavenkat:
 
 ## 🏆 GitHub Trophies
 
+<!-- FIX 3: github-profile-trophy.vercel.app — use img tag NOT markdown link syntax -->
+<!-- Markdown [![]()]() link wrapping breaks GitHub's image proxy for this service -->
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=NagavenkatNagella&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=NagavenkatNagella&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -353,8 +363,6 @@ class NagellaNagavenkat:
 >   <img src="https://img.shields.io/badge/DOI-10.1109%2FICERCS63125.2024.10895343-818cf8?style=for-the-badge&labelColor=1e1b4b"/>
 > </a>
 
-<br/>
-
 <div align="center">
 
 ### 📝 Manuscripts In Progress
@@ -427,13 +435,24 @@ class NagellaNagavenkat:
 
 ## 🐍 Contribution Snake
 
+<!-- FIX 4: Snake only works AFTER you run the GitHub Action once.         -->
+<!-- Until then, showing a working animated wave GIF as placeholder.       -->
+<!-- After setup, replace the img src below with the raw.githubusercontent  -->
+<!-- snake SVG path as shown in comments.                                  -->
+
 <div align="center">
 
+<!-- BEFORE Action runs — shows animated placeholder -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Contribution Activity"/>
+
+<!-- AFTER running the GitHub Action, replace the above with: -->
+<!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NagavenkatNagella/NagavenkatNagella/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/NagavenkatNagella/NagavenkatNagella/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NagavenkatNagella/NagavenkatNagella/output/github-snake.svg"/>
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NagavenkatNagella/NagavenkatNagella/output/github-snake-dark.svg"/>
 </picture>
+-->
 
 </div>
 
