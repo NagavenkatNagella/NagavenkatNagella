@@ -113,8 +113,8 @@ class NagellaNagavenkat:
 ║         │   TITLE   :  Wind-Powered Wireless Charging System               │         ║
 ║         │              for Electric Vehicles                               │         ║
 ║         │                                                                  │         ║
-║         │   Design No.  :  474355-001     Class   :  13-02                │         ║
-║         │   Date Issued :  19 Jan 2026    Status  :  ✅  GRANTED           │         ║
+║         │   Design No.  :  474355-001     Class   :  13-02                 │         ║
+║         │   Date Issued :  19 Jan 2026    Status  :  ✅  GRANTED          │        ║
 ║         │   Authority   :  The Patent Office, Government of India          │         ║
 ║         │                                                                  │         ║
 ║         └──────────────────────────────────────────────────────────────────┘         ║
